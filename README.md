@@ -12,4 +12,6 @@ sudo docker-compose up -d
 
 访问
 
-浏览器访问本地8000端口
+浏览器访问本地80端口
+
+![image](https://github.com/wpsec/CTFd-CQCET/blob/main/index.png)
